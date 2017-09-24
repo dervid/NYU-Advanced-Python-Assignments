@@ -1,2 +1,3 @@
-# NYU-Advanced-Python-Assignments
-Template for Advanced Python assignments
+Perform selected analysis on data from the Weather Underground.
+
+http://davidbpython.com/advanced_python/homework/Advanced_Python_Session_01_homework.htm
